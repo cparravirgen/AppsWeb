@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="movies.xsl"?>
+<collection title="Clásicos">
+  <movie>
+    <title>Toy Story</title>
+    <year>1995</year>
+    <genre>Animation</genre>
+  </movie>
+  <movie>
+    <title>The Terminator</title>
+    <year>1984</year>
+    <genre>Science Fiction</genre>
+  </movie>
+  <movie>
+    <title>Allien</title>
+    <year>1979</year>
+    <genre>Science Fiction</genre>
+  </movie>
+</collection>
