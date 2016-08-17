@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <?xml-stylesheet type="text/xsl" href="ligas.xsl"?>
 <Liga title="Liga MX">
-<!DOCTYPE Equipo [
+<!--<!DOCTYPE Equipo [
 <!ELEMENT Equipo (Nombre,Ciudad,Estadio)>
 <!ELEMENT Nombre (#PCDATA)>
 <!ELEMENT Ciudad (#PCDATA)>
 <!ELEMENT Estadio (#PCDATA)>
-]>
+]>-->
 <Equipo>
     <Nombre>América</Nombre>
     <Ciudad>Ciudad de México</Ciudad>
