@@ -7,94 +7,94 @@
 <!ELEMENT ciudad (#PCDATA)>
 <!ELEMENT estadio (#PCDATA)>
 ]>-->
-<equipo>
-    <nombre>América</nombre>
-    <ciudad>Ciudad de México</ciudad>
-    <estadio>Azteca</estadio>
-</equipo>
-<equipo>
-    <nombre>Atlas</nombre>
-    <ciudad>Guadalajara</ciudad>
-    <estadio>Jalisco</estadio>
-</equipo>
-<equipo>
-    <nombre>Chiapas</nombre>
-    <ciudad>Tuxtla Gutierrez</ciudad>
-    <estadio>Victor Manuel Reyna</estadio>
-</equipo>
-<equipo>
-    <nombre>Cruz Azul</nombre>
-    <ciudad>Ciudad de México</ciudad>
-    <estadio>Azul</estadio>
-</equipo>
-<equipo>
-    <nombre>Guadalajara</nombre>
-    <ciudad>Guadalajara</ciudad>
-    <estadio>Chivas</estadio>
-</equipo>
-<equipo>
-    <nombre>León</nombre>
-    <ciudad>León</ciudad>
-    <estadio>León</estadio>
-</equipo>
-<equipo>
-    <nombre>Monterrey</nombre>
-    <ciudad>Monterrey</ciudad>
-    <estadio>BBVA Bancomer</estadio>
-</equipo>
-<equipo>
-    <nombre>Morelia</nombre>
-    <ciudad>Morelia</ciudad>
-    <estadio>Morelos</estadio>
-</equipo>
-<equipo>
-    <nombre>Necaxa</nombre>
-    <ciudad>Aguascalientes</ciudad>
-    <estadio>Victoria</estadio>
-</equipo>
-<equipo>
-    <nombre>Pachuca</nombre>
-    <ciudad>Pachuca</ciudad>
-    <estadio>Hidalgo</estadio>
-</equipo>
-<equipo>
-    <nombre>Puebla</nombre>
-    <ciudad>Puebla</ciudad>
-    <estadio>Cuauhtémoc</estadio>
-</equipo>
-<equipo>
-    <nombre>Querétaro</nombre>
-    <ciudad>Querétaro</ciudad>
-    <estadio>Corregidora</estadio>
-</equipo>
-<equipo>
-    <nombre>Santos Laguna</nombre>
-    <ciudad>Torreón</ciudad>
-    <estadio>Corona</estadio>
-</equipo>
-<equipo>
-    <nombre>Tigres</nombre>
-    <ciudad>Monterrey</ciudad>
-    <estadio>Universitario</estadio>
-</equipo>
-<equipo>
-    <nombre>Tijuana</nombre>
-    <ciudad>Tijuana</ciudad>
-    <estadio>Caliente</estadio>
-</equipo>
-<equipo>
-    <nombre>Toluca</nombre>
-    <ciudad>Toluca</ciudad>
-    <estadio>Nemesio Díez</estadio>
-</equipo>
-<equipo>
-    <nombre>UNAM</nombre>
-    <ciudad>Ciudad de México</ciudad>
-    <estadio>Olímpico Universitario</estadio>
-</equipo>
-<equipo>
-    <nombre>Veracruz</nombre>
-    <ciudad>Veracruz</ciudad>
-    <estadio>Luis "Pirata" Fuente</estadio>
-</equipo>
+    <equipo>
+        <nombre>América</nombre>
+        <ciudad>Ciudad de México</ciudad>
+        <estadio>Azteca</estadio>
+    </equipo>
+    <equipo>
+        <nombre>Atlas</nombre>
+        <ciudad>Guadalajara</ciudad>
+        <estadio>Jalisco</estadio>
+    </equipo>
+    <equipo>
+        <nombre>Chiapas</nombre>
+        <ciudad>Tuxtla Gutierrez</ciudad>
+        <estadio>Victor Manuel Reyna</estadio>
+    </equipo>
+    <equipo>
+        <nombre>Cruz Azul</nombre>
+        <ciudad>Ciudad de México</ciudad>
+        <estadio>Azul</estadio>
+    </equipo>
+    <equipo>
+        <nombre>Guadalajara</nombre>
+        <ciudad>Guadalajara</ciudad>
+        <estadio>Chivas</estadio>
+    </equipo>
+    <equipo>
+        <nombre>León</nombre>
+        <ciudad>León</ciudad>
+        <estadio>León</estadio>
+    </equipo>
+    <equipo>
+        <nombre>Monterrey</nombre>
+        <ciudad>Monterrey</ciudad>
+        <estadio>BBVA Bancomer</estadio>
+    </equipo>
+    <equipo>
+        <nombre>Morelia</nombre>
+        <ciudad>Morelia</ciudad>
+        <estadio>Morelos</estadio>
+    </equipo>
+    <equipo>
+        <nombre>Necaxa</nombre>
+        <ciudad>Aguascalientes</ciudad>
+        <estadio>Victoria</estadio>
+    </equipo>
+    <equipo>
+        <nombre>Pachuca</nombre>
+        <ciudad>Pachuca</ciudad>
+        <estadio>Hidalgo</estadio>
+    </equipo>
+    <equipo>
+        <nombre>Puebla</nombre>
+        <ciudad>Puebla</ciudad>
+        <estadio>Cuauhtémoc</estadio>
+    </equipo>
+    <equipo>
+        <nombre>Querétaro</nombre>
+        <ciudad>Querétaro</ciudad>
+        <estadio>Corregidora</estadio>
+    </equipo>
+    <equipo>
+        <nombre>Santos Laguna</nombre>
+        <ciudad>Torreón</ciudad>
+        <estadio>Corona</estadio>
+    </equipo>
+    <equipo>
+        <nombre>Tigres</nombre>
+        <ciudad>Monterrey</ciudad>
+        <estadio>Universitario</estadio>
+    </equipo>
+    <equipo>
+        <nombre>Tijuana</nombre>
+        <ciudad>Tijuana</ciudad>
+        <estadio>Caliente</estadio>
+    </equipo>
+    <equipo>
+        <nombre>Toluca</nombre>
+        <ciudad>Toluca</ciudad>
+        <estadio>Nemesio Díez</estadio>
+    </equipo>
+    <equipo>
+        <nombre>UNAM</nombre>
+        <ciudad>Ciudad de México</ciudad>
+        <estadio>Olímpico Universitario</estadio>
+    </equipo>
+    <equipo>
+        <nombre>Veracruz</nombre>
+        <ciudad>Veracruz</ciudad>
+        <estadio>Luis "Pirata" Fuente</estadio>
+    </equipo>
 </liga>
