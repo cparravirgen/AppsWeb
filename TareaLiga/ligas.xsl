@@ -4,7 +4,7 @@
 <xsl:template match="/liga">
   <html>
   <body>
-  <h2>Ligas de Futbol</h2>
+  <h2>Liga MX</h2>
     <table border="1">
       <tr>
         <th>Equipo</th>
