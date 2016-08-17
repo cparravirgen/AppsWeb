@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="ligas.xsl"?>
+<Liga title="Liga MX">
+<!DOCTYPE Equipo [
+<!ELEMENT Equipo (Nombre,Ciudad,Estadio)>
+<!ELEMENT Nombre (#PCDATA)>
+<!ELEMENT Ciudad (#PCDATA)>
+<!ELEMENT Estadio (#PCDATA)>
+]>
+<Equipo>
+    <Nombre>América</Nombre>
+    <Ciudad>Ciudad de México</Ciudad>
+    <Estadio>Azteca</Estadio>
+</Equipo>
+<Equipo>
+    <Nombre>Atlas</Nombre>
+    <Ciudad>Guadalajara</Ciudad>
+    <Estadio>Jalisco</Estadio>
+</Equipo>
+<Equipo>
+    <Nombre>Chiapas</Nombre>
+    <Ciudad>Tuxtla Gutierrez</Ciudad>
+    <Estadio>Victor Manuel Reyna</Estadio>
+</Equipo>
+<Equipo>
+    <Nombre>Cruz Azul</Nombre>
+    <Ciudad>Cuidad de México</Ciudad>
+    <Estadio>Azul</Estadio>
+</Equipo>
+<Equipo>
+    <Nombre>Guadalajara</Nombre>
+    <Ciudad>Guadalajara</Ciudad>
+    <Estadio>Chivas</Estadio>
+</Equipo>
+<Equipo>
+    <Nombre>León</Nombre>
+    <Ciudad>León</Ciudad>
+    <Estadio>León</Estadio>
+</Equipo>
+<Equipo>
+    <Nombre>Monterrey</Nombre>
+    <Ciudad>Monterrey</Ciudad>
+    <Estadio>BBVA Bancomer</Estadio>
+</Equipo>
+<Equipo>
+    <Nombre>Morelia</Nombre>
+    <Ciudad>Morelia</Ciudad>
+    <Estadio>Morelos</Estadio>
+</Equipo>
+<Equipo>
+    <Nombre>Necaxa</Nombre>
+    <Ciudad>Aguascalientes</Ciudad>
+    <Estadio>Victoria</Estadio>
+</Equipo>
+<Equipo>
+    <Nombre>Pachuca</Nombre>
+    <Ciudad>Pachuca</Ciudad>
+    <Estadio>Hidalgo</Estadio>
+</Equipo>
+<Equipo>
+    <Nombre>Puebla</Nombre>
+    <Ciudad>Puebla</Ciudad>
+    <Estadio>Cuauhtémoc</Estadio>
+</Equipo>
+<Equipo>
+    <Nombre>Querétaro</Nombre>
+    <Ciudad>Querétaro</Ciudad>
+    <Estadio>Corregidora</Estadio>
+</Equipo>
+<Equipo>
+    <Nombre>Santos Laguna</Nombre>
+    <Ciudad>Torreón</Ciudad>
+    <Estadio>Corona</Estadio>
+</Equipo>
+<Equipo>
+    <Nombre>Tigres</Nombre>
+    <Ciudad>Monterrey</Ciudad>
+    <Estadio>Universitario</Estadio>
+</Equipo>
+<Equipo>
+    <Nombre>Tijuana</Nombre>
+    <Ciudad>Tijuana</Ciudad>
+    <Estadio>Caliente</Estadio>
+</Equipo>
+<Equipo>
+    <Nombre>Toluca</Nombre>
+    <Ciudad>Toluca</Ciudad>
+    <Estadio>Nemesio Díez</Estadio>
+</Equipo>
+<Equipo>
+    <Nombre>UNAM</Nombre>
+    <Ciudad>Ciudad de México</Ciudad>
+    <Estadio>Olímpico Universitario</Estadio>
+</Equipo>
+<Equipo>
+    <Nombre>Veracruz</Nombre>
+    <Ciudad>Veracruz</Ciudad>
+    <Estadio>Luis "Pirata" Fuente</Estadio>
+</Equipo>
